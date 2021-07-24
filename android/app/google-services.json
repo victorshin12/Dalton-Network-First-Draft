@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416986871633",
+    "project_id": "cdsappfinal",
+    "storage_bucket": "cdsappfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416986871633:android:28db9d9f4d60b9c6e68570",
+        "android_client_info": {
+          "package_name": "com.example.myAppCDS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416986871633-63orje6a54lvjkk748ldebao9e7oup8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmOTKr_GoXG58mwrwQUklWgd2ObARjCxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416986871633-63orje6a54lvjkk748ldebao9e7oup8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
